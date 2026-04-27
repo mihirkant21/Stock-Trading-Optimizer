@@ -1,0 +1,10 @@
+# Frontend
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
