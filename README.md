@@ -2,16 +2,6 @@
 
 A full-stack **MERN** web application that finds the **maximum-profit trading strategy** for any stock price series using **Dynamic Programming** on a Directed Acyclic Graph (DAG) of market states.
 
-> Built as a Coding Skills project — SRM SEM-4
-
----
-
-## 🖥️ Live Preview
-
-![UI Preview](./docs/preview.png)
-
----
-
 ## ✨ Features
 
 | Feature | Details |
