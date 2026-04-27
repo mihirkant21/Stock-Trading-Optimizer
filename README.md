@@ -203,6 +203,3 @@ MIT © 2026
 
 ---
 
-<div align="center">
-  Made with ❤️ for SRM Coding Skills — SEM 4
-</div>
